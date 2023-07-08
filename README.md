@@ -23,7 +23,8 @@ Challenges: The main challenges in building this project will be designing a vis
 Expected Outcome: By the end of this project, I will have a professional-looking personal portfolio website that showcases my skills and work experience. This website will help me to stand out to potential employers or clients and provide them with an easy way to contact me.
 
 ## Live Website
-Visit my website [here]([https://www.example.com](https://adarshkm.000webhostapp.com/)).
+Check out my personal portfolio website to see my latest work and projects. Visit [www.example.com](https://adarshkm.000webhostapp.com/) to explore!
+
 
 ## Support
 

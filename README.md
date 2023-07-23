@@ -28,9 +28,7 @@ Check out my personal portfolio website to see my latest work and projects. [Ada
 
 ## Support
 
-
 For support, email adarsh6158@gmail.com .
-
 
 ## 🔗 Link\
 

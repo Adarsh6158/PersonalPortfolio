@@ -1087,3 +1087,10 @@ section .container {
     transform: translateX(-50%);
   }
 }
+.social-links a:hover {
+  background: #1c7d32;
+  color: #fff;
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+}
